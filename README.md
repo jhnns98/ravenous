@@ -1,3 +1,9 @@
+React app: Search for a specific type of business in your town (powered with the YELP API). 
+
+<img width="964" alt="Bildschirmfoto 2019-05-23 um 5 03 11 PM" src="https://user-images.githubusercontent.com/49861247/58259167-b0f87380-7d7c-11e9-8a2d-e1c15e1b1175.png">
+
+-------------------------
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
